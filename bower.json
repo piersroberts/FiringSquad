@@ -1,0 +1,20 @@
+{
+  "name": "FiringSquad",
+  "version": "0.0.0",
+  "authors": [
+    "Piers Roberts <piersroberts@gmail.com>"
+  ],
+  "main": "src/FiringSquad.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/piersroberts/FiringSquad",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
